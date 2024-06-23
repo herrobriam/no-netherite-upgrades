@@ -2,14 +2,14 @@
 	"schemaVersion": 1,
 	"id": "no-netherite-upgrades",
 	"version": "${version}",
-	"name": "No Netherite Up[grades",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"name": "No Netherite Upgrades",
+	"description": "Makes upgrading to Netherite like it was!",
 	"authors": [
-		"Me!"
+		"herrobriam"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://modrinth.com/mod/no-netherite-upgrades/",
+		"sources": "https://github.com/herrobriam/no-netherite-upgrades"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/no-netherite-upgrades/icon.png",

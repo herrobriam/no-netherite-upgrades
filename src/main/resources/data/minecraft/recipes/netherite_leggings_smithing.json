@@ -1,8 +1,6 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:netherrack"
-  },
+  "template": [],
   "base": {
     "item": "minecraft:diamond_leggings"
   },
